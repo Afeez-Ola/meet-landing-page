@@ -289,8 +289,8 @@ a {
     padding-block: 1rem;
   }
 
-  .circle {
-    width: 8.5%;
+  .info_section .circle {
+    width: 4%;
   }
 
   .info_note {
@@ -344,7 +344,7 @@ a {
   }
 
   .footer_section .circle {
-    width: 4.4%;
+    width: 3.4%;
   }
 
   .footer_section {
