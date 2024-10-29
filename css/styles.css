@@ -76,4 +76,26 @@ button {
   padding: 2rem;
 }
 
+.image_section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 2rem;
+}
+
+.left_image{
+  position: relative;
+  flex: 1;
+  width: 15rem;
+}
+
+.right_image{
+  position: relative;
+  flex: 1;
+  width: 15rem;
+}
+
+
+
 
