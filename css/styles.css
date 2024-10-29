@@ -353,7 +353,7 @@ a {
 
   .footer_note {
     flex-direction: revert;
-    max-width: 70rem;
+    max-width: 80rem;
     padding-bottom: 3rem;
   }
 
