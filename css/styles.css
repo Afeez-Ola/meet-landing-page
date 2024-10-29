@@ -257,7 +257,7 @@ a {
   align-items: center;
   color: var(--white);
   font-weight: bold;
-  margin: auto;
+  margin-inline: auto;
   text-align: center;
   width: 100%;
   gap: 1.5rem;
@@ -265,6 +265,7 @@ a {
 
 .footer_button {
   background-color: var(--purple-600);
+  margin-bottom: 3rem;
 }
 
 .footer_button span {
