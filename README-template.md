@@ -12,7 +12,7 @@ This is a solution to the [Meet landing page challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Afeez-Ola/meet-landing-page)
-- Live Site URL: [Add live site URL here](https://equalizer-landing-page-five-woad.vercel.app/)
+- Live Site URL: [Add live site URL here](https://meet-landing-page-seven-ashen.vercel.app/)
 
 ## My process
 
