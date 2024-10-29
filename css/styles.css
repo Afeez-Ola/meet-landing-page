@@ -132,8 +132,11 @@ a {
 }
 
 .download_button {
-  padding: 1.5rem 3.5rem;
   background-color: var(--cyan-600);
+}
+.button{
+padding: 1.5rem 3.5rem;
+  /* background-color: var(--cyan-600); */
   color: var(--white);
   font-weight: bold;
   border-radius: 2rem;
@@ -228,6 +231,11 @@ a {
 .info_note p{
   text-align: center;
   font-size: 1.1rem;
+}
+
+.footer_section{
+  background-color: var(--cyan-300);
+  background-image: url("../assets/mobile/image-footer.jpg");
 }
 
 
