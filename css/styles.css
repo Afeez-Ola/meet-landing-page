@@ -63,3 +63,17 @@ body, input, button {
 button {
  cursor: pointer;
 }
+
+.container{
+  width: 100%;
+}
+
+.logo_section{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+
