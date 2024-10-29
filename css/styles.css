@@ -54,6 +54,8 @@
 body {
   /* background: ;
  color: ; */
+   overflow-x: hidden;
+
   -webkit-font-smoothing: antialiased;
 }
 
@@ -81,13 +83,15 @@ a {
   align-content: center;
   align-items: center;
   padding: 2rem;
+    overflow-x: hidden;
+
 }
 
 .image_section {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.7rem;
   padding: 2rem;
 }
 
@@ -99,8 +103,8 @@ a {
 
 .right_image {
   position: relative;
-  flex: 1;
-  width: 15rem;
+  /* flex: 1; */
+  width: 12rem;
 }
 
 .cta_section {
@@ -166,3 +170,30 @@ a {
   text-align: center;
   margin: auto;
 }
+
+.square_image_section{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  margin: 3rem auto;
+}
+
+.square_image_section img{
+  width: 80%;
+  border-radius: 1.2rem;
+
+}
+
+.top_layer_image, .bottom_layer_image{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  margin: auto;
+  gap: 1.2rem;
+}
+
+
