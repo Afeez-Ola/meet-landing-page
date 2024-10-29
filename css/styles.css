@@ -273,19 +273,38 @@ a {
 }
 
 @media screen and (min-width: 40rem) {
-  .cta_section{
+  .cta_section {
     max-width: 31rem;
   }
 
-  .cta_buttons{
+  .cta_buttons,
+  .square_image_section {
     flex-direction: revert;
   }
 
-  .download_button{
+  .download_button {
     padding-block: 1rem;
   }
 
-  .info_section .circle{
-    width: 9%;
+  .circle {
+    width: 8.5%;
   }
+
+  .info_note {
+    max-width: 31rem;
+    margin: auto;
+  }
+
+  .info_note h2 {
+    width: 90%;
+    margin: auto;
+  }
+
+  .footer_note {
+    max-width: 34rem;
+  }
+
+  /* .square_image_section{
+    flex-direction: revert;
+  } */
 }
