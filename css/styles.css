@@ -346,7 +346,7 @@ a {
 
   .hidden_left_image {
     position: relative;
-    right: 10rem;
+    /* right: 10rem; */
   }
 
   .hidden_right_image {
