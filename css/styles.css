@@ -287,6 +287,11 @@ a {
     flex-direction: revert;
   }
 
+  .left_image,
+.right_image {
+  width: 50%;
+}
+
   .square_image_section{
     flex-wrap: nowrap;
     width: 25%;
