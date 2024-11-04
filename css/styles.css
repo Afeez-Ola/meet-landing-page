@@ -358,6 +358,10 @@ a {
     order: 3;
   }
 
+  .info_section{
+    margin-top: 8rem;
+  }
+
   .info_section .circle {
     width: 3.7%;
   }
