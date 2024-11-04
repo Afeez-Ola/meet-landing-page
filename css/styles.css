@@ -74,6 +74,10 @@ a {
 
 .container {
   width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .logo_section {
@@ -292,7 +296,7 @@ a {
   }
 
   .info_section .circle {
-    width: 4%;
+    width: 9%;
   }
 
   .info_note {
